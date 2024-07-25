@@ -1,0 +1,48 @@
+
+
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Error Page | LG Chem</title>
+    <script src="/ess/resource/common/js/jquery-3.3.1.min.js"></script>
+	<script src="/ess/resource/common/js/jquery-ui.min.js"></script>
+	<script src="/ess/resource/pc/en/js/ui.js"></script>
+
+    <script type="text/javascript">
+    /**
+     * Java StartWith 구현
+     * @param   시작문자(문자열)
+     * @returns Boolean : 시작문자유무(true:시작문자)
+     */     
+    if ( typeof String.prototype.startsWith != 'function' ) {
+        String.prototype.startsWith = function( str ) {
+            return str.length > 0 && this.substring(0, str.length) === str;
+        };
+    };    
+    $(function(){
+        var url = window.location.pathname;
+        var localCd = "";
+        var bMobile = url.startsWith('/m');
+        
+        if(bMobile){
+        	localCd = url.split('/')[2];
+        }else{
+        	localCd = url.split('/')[1];
+        }
+        
+        if(localCd != 'admin' && localCd != null){
+        	window.location.replace((bMobile ? '/m/' : '/') + localCd + '/etc/error.lg');
+        } else {
+        	window.location.replace('/eu/etc/error.lg');
+        }
+    });
+    </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,363 @@
+@font-face {
+	font-family: 'icomoon';
+	src: url('https://www.lgessbattery.com/ess/resource/common/fonts/icomoon.ttf?aa2hs7') format('truetype'),
+		url('https://www.lgessbattery.com/ess/resource/common/fonts/icomoon.woff?aa2hs7') format('woff'),
+		url('https://www.lgessbattery.com/ess/resource/common/fonts/icomoon.svg?aa2hs7#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+i {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-logout:before {
+  content: "\e94c";
+}
+.icomoon-aircon-ducted:before {
+	content: "\e900";
+  }
+  .icomoon-aircon-non:before {
+	content: "\e901";
+  }
+  .icomoon-benefits:before {
+	content: "\e902";
+  }
+  .icomoon-black-out:before {
+	content: "\e903";
+  }
+  .icomoon-bronze:before {
+	content: "\e904";
+  }
+  .icomoon-calendar:before {
+	content: "\e905";
+  }
+  .icomoon-certification:before {
+	content: "\e906";
+  }
+  .icomoon-certified-test:before {
+	content: "\e907";
+  }
+  .icomoon-changeinfo:before {
+	content: "\e908";
+  }
+  .icomoon-compact-size:before {
+	content: "\e909";
+  }
+  .icomoon-completed:before {
+	content: "\e90a";
+  }
+  .icomoon-day:before {
+	content: "\e90b";
+  }
+  .icomoon-design-resu:before {
+	content: "\e90c";
+  }
+  .icomoon-design-resu-mob:before {
+	content: "\e90d";
+  }
+  .icomoon-diamond:before {
+	content: "\e90e";
+  }
+  .icomoon-diverse-product:before {
+	content: "\e90f";
+  }
+  .icomoon-electric-car:before {
+	content: "\e910";
+  }
+  .icomoon-electric-space:before {
+	content: "\e911";
+  }
+  .icomoon-electric-storage-water:before {
+	content: "\e912";
+  }
+  .icomoon-email:before {
+	content: "\e913";
+  }
+  .icomoon-expandable:before {
+	content: "\e914";
+  }
+  .icomoon-facebook:before {
+	content: "\e915";
+  }
+  .icomoon-file:before {
+	content: "\e916";
+  }
+  .icomoon-filter:before {
+	content: "\e917";
+  }
+  .icomoon-gen1:before {
+	content: "\e918";
+  }
+  .icomoon-gen2:before {
+	content: "\e919";
+  }
+  .icomoon-gen3:before {
+	content: "\e91a";
+  }
+  .icomoon-gen4:before {
+	content: "\e91b";
+  }
+  .icomoon-gen5:before {
+	content: "\e91c";
+  }
+  .icomoon-gen6:before {
+	content: "\e91d";
+  }
+  .icomoon-gen7:before {
+	content: "\e91e";
+  }
+  .icomoon-gen8:before {
+	content: "\e91f";
+  }
+  .icomoon-gen9:before {
+	content: "\e920";
+  }
+  .icomoon-gold:before {
+	content: "\e921";
+  }
+  .icomoon-grid:before {
+	content: "\e922";
+  }
+  .icomoon-heat-pump:before {
+	content: "\e923";
+  }
+  .icomoon-immediately:before {
+	content: "\e924";
+  }
+  .icomoon-installation:before {
+	content: "\e925";
+  }
+  .icomoon-language:before {
+	content: "\e926";
+  }
+  .icomoon-link:before {
+	content: "\e927";
+  }
+  .icomoon-linkedin:before {
+	content: "\e928";
+  }
+  .icomoon-login:before {
+	content: "\e929";
+  }
+  .icomoon-lower-costof:before {
+	content: "\e92a";
+  }
+  .icomoon-manual:before {
+	content: "\e92b";
+  }
+  .icomoon-map:before {
+	content: "\e92c";
+  }
+  .icomoon-membership-levels:before {
+	content: "\e92d";
+  }
+  .icomoon-moon:before {
+	content: "\e92e";
+  }
+  .icomoon-mypage:before {
+	content: "\e92f";
+  }
+  .icomoon-new:before {
+	content: "\e930";
+  }
+  .icomoon-night:before {
+	content: "\e931";
+  }
+  .icomoon-password:before {
+	content: "\e932";
+  }
+  .icomoon-performance:before {
+	content: "\e933";
+  }
+  .icomoon-platinum:before {
+	content: "\e934";
+  }
+  .icomoon-pool-pump:before {
+	content: "\e935";
+  }
+  .icomoon-print:before {
+	content: "\e936";
+  }
+  .icomoon-qna:before {
+	content: "\e937";
+  }
+  .icomoon-quote-end:before {
+	content: "\e938";
+  }
+  .icomoon-quote-start:before {
+	content: "\e939";
+  }
+  .icomoon-refrigerator:before {
+	content: "\e93a";
+  }
+  .icomoon-rejection:before {
+	content: "\e93b";
+  }
+  .icomoon-reset:before {
+	content: "\e93c";
+  }
+  .icomoon-safety:before {
+	content: "\e93d";
+  }
+  .icomoon-search:before {
+	content: "\e93e";
+  }
+  .icomoon-serial-number:before {
+	content: "\e93f";
+  }
+  .icomoon-share:before {
+	content: "\e940";
+  }
+  .icomoon-silver:before {
+	content: "\e941";
+  }
+  .icomoon-small-footprint:before {
+	content: "\e942";
+  }
+  .icomoon-spec:before {
+	content: "\e943";
+  }
+  .icomoon-subsidy:before {
+	content: "\e944";
+  }
+  .icomoon-system:before {
+	content: "\e945";
+  }
+  .icomoon-television:before {
+	content: "\e946";
+  }
+  .icomoon-timer:before {
+	content: "\e947";
+  }
+  .icomoon-training:before {
+	content: "\e948";
+  }
+  .icomoon-twitter:before {
+	content: "\e949";
+  }
+  .icomoon-warranty:before {
+	content: "\e94a";
+  }
+  .icomoon-10m:before {
+	content: "\e94b";
+  }
+  
+  /*210722 재확인*/
+  /*ID23 등급아이콘 수정*/  
+  .icomoon-diamond:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelDiamond.svg);
+  }
+  .icomoon-platinum:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelPlatinum.svg);
+  }
+  .icomoon-gold:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelGold.svg);
+  }
+  .icomoon-silver:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelSilver.svg);
+  }
+  .icomoon-bronze:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelBronze.svg);
+  }
+  .icomoon-new:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelNew.svg);
+  }
+
+  /*is-active 일 때*/
+  .is-active .icomoon-diamond:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelDiamond-w.svg);
+  }
+  .is-active .icomoon-platinum:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelPlatinum-w.svg);
+  }
+  .is-active .icomoon-gold:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelGold-w.svg);
+  }
+  .is-active .icomoon-silver:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelSilver-w.svg);
+  }
+  .is-active .icomoon-bronze:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelBronze-w.svg);
+  }
+  .is-active .icomoon-new:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelNew-w.svg);
+  }
+
+  /*quick menu*/
+  .l-quick-menu .grade i.icomoon-diamond:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelDiamond-w.svg);
+  }
+  .l-quick-menu .grade i.icomoon-platinum:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelPlatinum-w.svg);
+  }
+  .l-quick-menu .grade i.icomoon-gold:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelGold-w.svg);
+  }
+  .l-quick-menu .grade i.icomoon-silver:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelSilver-w.svg);
+  }
+  .l-quick-menu .grade i.icomoon-bronze:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelBronze-w.svg);
+  }
+  .l-quick-menu .grade i.icomoon-new:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelNew-w.svg);
+  }
+
+  /*모바일*/
+  .user-grade .grade-icon i.icomoon-diamond:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelDiamond-w.svg);
+  }
+  .user-grade .grade-icon i.icomoon-platinum:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelPlatinum-w.svg);
+  }
+  .user-grade .grade-icon i.icomoon-gold:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelGold-w.svg);
+  }
+  .user-grade .grade-icon i.icomoon-silver:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelSilver-w.svg);
+  }
+  .user-grade .grade-icon i.icomoon-bronze:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelBronze-w.svg);
+  }
+  .user-grade .grade-icon i.icomoon-new:before {
+    content: "";
+    background-image:url(https://www.lgessbattery.com/common/images/front/normal/en/update_images_folder/bg-levelNew-w.svg);
+  }
+  /*//ID23 등급아이콘 수정*/
+  /* //210722 재확인*/

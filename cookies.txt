@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lgessbattery.com	TRUE	/	FALSE	1999999999	ipmsperf_uuid	3305692395455306471
+www.lgessbattery.com	TRUE	/	FALSE	1999999999	JSESSIONID	7o52nBQHqOhGQbIk7yWczhue4W4ARkiOpcJew1LvGZfkm62hzPgIC2vxI1vcJ3ij.lchessppwas_servlet_engine1
+

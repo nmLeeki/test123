@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Jul 2024 14:28:02 at https://www.lgessbattery.com/m/au/recall/recallnotice.lg +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.lgessbattery.com/m/au/recall/recallnotice.lg -O1 "C:\My Web Sites\123" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:28:15	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.lgessbattery.com/m/au/recall/recallnotice.lg)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/ess/resource/common/css/mCSB_buttons.png (from https://www.lgessbattery.com/ess/resource/common/css/jquery.mCustomScrollbar.min.css)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/ess/resource/assets/images/loading.gif (from https://www.lgessbattery.com/ess/resource/assets/css/common.css)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/ess/resource/assets/css/<path-to-image (from https://www.lgessbattery.com/ess/resource/assets/css/recall.css)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/Version/ (from https://www.lgessbattery.com/ess/resource/common/js/swiper.min.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/version/ (from https://www.lgessbattery.com/ess/resource/common/js/swiper.min.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js (from https://www.lgessbattery.com/ess/resource/common/js/jquery.mCustomScrollbar.concat.min.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/a (from https://connect.facebook.net/en_US/fbevents.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/POST (from https://connect.facebook.net/en_US/fbevents.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/t.src (from https://js.adsrvr.org/up_loader.1.1.0.js)
+14:28:17	Error: 	"Not Found" (404) at link https://www.lgessbattery.com/m/au/recall/e.origin (from https://js.adsrvr.org/up_loader.1.1.0.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 54 links scanned, 39 files written (2617146 bytes overall) [1951115 bytes received at 130074 bytes/sec], 969779 bytes transferred using HTTP compression in 14 files, ratio 27%, 3.6 requests per connection
+(14 errors, 0 warnings, 0 messages)
